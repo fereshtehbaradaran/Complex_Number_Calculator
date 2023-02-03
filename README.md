@@ -14,3 +14,13 @@ This calculator does basic arithmetic on complex numbers and evaluates expressio
 + Multiplication
 
 + Division
+
+
+## Requirements
+install `tkinter` using pip:
+```
+pip3 install tkinter
+```
+
+## Run
+Run `main.py` to use the calculator!
